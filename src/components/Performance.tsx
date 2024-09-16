@@ -1,6 +1,6 @@
 "use client";
 import { PERFORMANCE_DATA_LIST } from "@/utils/helper";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import Icons from "./common/Icons";
 import Cta from "./custom-ui/Cta";

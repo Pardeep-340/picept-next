@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useRef, useEffect, useCallback } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import Heading from "./custom-ui/Heading";
 import Paragraph from "./custom-ui/Paragraph";
 import Image from "next/image";

@@ -1,4 +1,3 @@
-import React from "react";
 type ICONS_PROPS = {
   icon?: any;
   className?: any;

@@ -1,6 +1,5 @@
 import { TRUSTER_DATA_LISTS } from '@/utils/helper'
 import Image from 'next/image'
-import React from 'react'
 import Heading from './custom-ui/Heading'
 
 const TrustedDeveloper = () => {

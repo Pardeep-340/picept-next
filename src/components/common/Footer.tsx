@@ -1,7 +1,6 @@
 import { FOOTER_LINKS_LIST, SOCIAL_MEDIA_LIST } from '@/utils/helper'
 import Image from 'next/image'
 import Link from 'next/link'
-import React from 'react'
 import Paragraph from '../custom-ui/Paragraph'
 import Icons from './Icons'
 

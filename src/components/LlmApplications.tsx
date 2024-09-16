@@ -1,4 +1,3 @@
-import React from 'react'
 import Heading from './custom-ui/Heading'
 import Paragraph from './custom-ui/Paragraph'
 import Cta from './custom-ui/Cta'

@@ -1,4 +1,3 @@
-import React from "react";
 import Paragraph from "../custom-ui/Paragraph";
 import Icons from "./Icons";
 import ContactForm from "../ContactForm";
